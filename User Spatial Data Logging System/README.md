@@ -4,11 +4,11 @@ Selected source files from a larger Unity/Meta XR research application. The subs
 
 The three streams are started and stopped together by `LoggingManager`. The researcher dashboard can request the same operations through `RemoteLoggingController`. Output goes to `Application.persistentDataPath` and is written locally, not transmitted to the dashboard.
 
-![Realtime eye and head gaze spatial data file sample](Supplementary%20materials/raw_gaze_data)
+![Realtime eye and head gaze spatial data file sample](Supplementary%20materials/raw_gaze_data.png)
 
-![Gaze collision event data file sample](Supplementary%20materials/gaze_event_data)
+![Gaze collision event data file sample](Supplementary%20materials/gaze_event_data.png)
 
-![User interaction and system events data file sample](Supplementary%20materials/User_and_system_events)
+![User interaction and system events data file sample](Supplementary%20materials/User_and_system_events.png)
 
 ## Components
 

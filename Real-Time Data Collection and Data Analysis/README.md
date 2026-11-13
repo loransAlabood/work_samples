@@ -2,11 +2,11 @@
 
 Selected source files from a larger application for practicing word spelling through near hand interactions. The user places letter cubes into target positions. This subsystem records tracked poses and task-context interaction events, with a choice of local CSV storage or Firebase Realtime Database.
 
-![User interacting with the system](Supplementary%20materials/User_in_action_screenshots)
+![User interacting with the system](Supplementary%20materials/User_in_action_screenshots.jpg)
 
-![Online database real-timel logging](Supplementary%20materials/Firebase_dashboard)
+![Online database real-timel logging](Supplementary%20materials/Firebase_dashboard.png)
 
-![Local data file sample](Supplementary%20materials/Data_file_Sample)
+![Local data file sample](Supplementary%20materials/Data_file_Sample.png)
 
 **This repository is a subsystem excerpt, not a runnable Unity project.** The parent application supplies the grab/release/snap handler, scene prefabs, interaction objects, user interface, Photon configuration, and Firebase configuration. These excerpts have not been compiled or tested against the original project after the revisions.
 

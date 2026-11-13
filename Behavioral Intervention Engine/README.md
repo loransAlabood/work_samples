@@ -5,7 +5,6 @@ Selected C# subsystems from a larger Unity XR research application. A participan
 - **Gaze tracking:** turns noisy eye/head sensor data into stable "looked at / stopped looking at" events.
 - **Intervention engine:** a rule-based engine that detects conditions, decides on a response, carries it out, and checks whether the condition cleared.
 
-<!-- TODO: one sentence on your role, e.g. "I designed and implemented both subsystems." -->
 
 **The engine is rule-based. No trained model selects interventions.** The rules were designed with input from field experts (an occupational therapist, a psychologist and a caregiver), as an exploratory, context-aware system. Outcome monitors report whether an intervention's *immediate* condition was resolved. They do not establish that an intervention caused the change, and they say nothing about clinical or educational effectiveness.
 
